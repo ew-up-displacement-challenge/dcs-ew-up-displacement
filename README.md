@@ -1,6 +1,6 @@
 # dcs-ew-up-displacement
 
-The Developer Cloud Sandbox application provides an IDL based example of the extreaction Vertical and East-West component of two InSAR measurements, one ascending and one descending thus providing two different Line-of-Sight (LOS) views.
+This Developer Cloud Sandbox application provides an IDL based example of the extraction Vertical and East-West component of two InSAR measurements, one ascending and one descending thus providing two different Line-of-Sight (LOS) views.
 
 This application can either be modified and extendend to process several ascending and descending InSAR measurements. 
 
